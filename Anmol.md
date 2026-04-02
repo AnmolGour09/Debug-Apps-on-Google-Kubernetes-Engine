@@ -4,6 +4,12 @@
 
 </div>
 
+```
+curl -LO https://raw.githubusercontent.com/AnmolGour09/Debug-Apps-on-Google-Kubernetes-Engine/refs/heads/main/Anmol.sh
+sudo chmod +x Anmol.sh
+./Anmol.sh
+
+```
 
 ```
 curl -LO https://raw.githubusercontent.com/AnmolGour09/Debug-Apps-on-Google-Kubernetes-Engine/refs/heads/main/Anmol.sh
